@@ -1,0 +1,4 @@
+*.log
+static/dir
+/dir
+BB.pub
